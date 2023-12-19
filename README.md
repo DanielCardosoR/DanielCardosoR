@@ -8,7 +8,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Analise e Desenvolvimento de Sistemas** no <a href="https://newtonpaiva.br/"> Centro Universitário Newton Paiva</a>.
 <!-- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>  -->
-- 🌱 &nbsp; Aprendendo mais sobre **HTML,CSS,JavaScript e React**.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS, JavaScript e React**.
 
 <h3>Minhas Skills</h3>
 
@@ -55,14 +55,14 @@
 <br/>
 
 <a href="https://github.com/DanielCardosoR" title="Perfil do Daniel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielcode&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-cardoso-rodrigues/)](https://www.linkedin.com/in/daniel-cardoso-rodrigues/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cardosodaniel20@gmail.com)](mailto:cardosodaniel20@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/DanielCardosoR)
+[![Gmail Badge](https://img.shields.io/badge/-cardosodaniel20@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cardosodaniel20@gmail.com)](mailto:cardosodaniel20@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Danielcode?label=follow&style=social)](https://github.com/DanielCardosoR)
 
 
 
