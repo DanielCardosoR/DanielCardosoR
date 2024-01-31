@@ -51,13 +51,13 @@
 <!--
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 -->
-
+<!--
 <br/>
 
 <a href="https://github.com/DanielCardosoR" title="Perfil do Daniel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielcode&theme=dracula&show_icons=true" />
 </a>
-
+-->
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-cardoso-rodrigues/)](https://www.linkedin.com/in/daniel-cardoso-rodrigues/)
