@@ -102,10 +102,9 @@
 &nbsp; 
 <code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/mongodb.png?raw=true"/></a></code>
 &nbsp; 
-
-&nbsp; 
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/nodejs.png?raw=true"/></a></code>
 &nbsp;
+<!--
 <code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/nextjs.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/jest.png?raw=true"/></a></code>
@@ -138,11 +137,12 @@
 &nbsp; 
 <code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/gitlab.png?raw=true"/></a></code>
 &nbsp; 
+-->
 <code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/pc.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/netbeans.png?raw=true"/></a></code>
+<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/Apache Netbeans.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
@@ -152,3 +152,16 @@
 </div>
 
 -----
+<!-- status github-->
+
+<img height="20" alt="GIF" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielCardosoR&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielCardosoR&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielCardosoR&theme=github_dark"/>
+</div>
+
+
+
