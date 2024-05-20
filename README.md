@@ -6,7 +6,7 @@
 <img align="center" alt="Header" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/header.png?raw=true"/>
 
 -----
-
+<!-- tabela superior -->
 <div align="center">
 <table>
 <tr>
@@ -16,12 +16,12 @@
 <td><a href="https://github.com/DanielCardosoR" target="_blank"><img src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
-<td><a href="cardosodaniel20@gmail.com" target="_blank"><img src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="cardosodaniel20@gmail.com" target="_blank"><img src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531994727750" target="_blank"><img src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
-<td><a href="https://www.linkedin.com/in/daniel-cardoso-rodrigues/" target="_blank"><img src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/daniel-cardoso-rodrigues/" target="_blank"><img src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 
@@ -44,7 +44,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/DanielcardosoR/DanielCardosoR/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/DanielcardosoR/DanielCardosoR/blob/main/img/developer.gif?raw=true" width="300px" height="300px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/DanielCardosoR/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -96,7 +96,7 @@
 &nbsp; 
 <code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/vbs.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/mysql.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/MySQL.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/DanielCardosoR/DanielCardosoR/blob/main/img/postgresql.png?raw=true"/></a></code>
 &nbsp; 
@@ -158,7 +158,6 @@
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielCardosoR&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielCardosoR&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielCardosoR&theme=github_dark"/>
 </div>
